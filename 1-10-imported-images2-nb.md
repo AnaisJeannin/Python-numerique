@@ -13,7 +13,6 @@ kernelspec:
   name: python3
 ---
 
-Licence CC BY-NC-ND, Valérie Roy & Thierry Parmentelat
 
 ```{code-cell} ipython3
 import numpy as np
